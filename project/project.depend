@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1591305312 source:c:\users\makis\desktop\ergasia c++\project\main.cpp
+	<BinaryTree.h>
+	<BinaryTreeAVL.h>
+	<HashTableOpenAddressing.h>
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<chrono>
+	<sstream>
+
+1589634817 source:c:\users\makis\desktop\ergasia c++\project\src\binarytree.cpp
+	"BinaryTree.h"
+
+1589634817 c:\users\makis\desktop\ergasia c++\project\include\binarytree.h
+	<iostream>
+
+1586378482 source:c:\users\makis\desktop\ergasia c++\project\src\binarytreenode.cpp
+	"BinaryTreeNode.h"
+	<string>
+
+1586378416 c:\users\makis\desktop\ergasia c++\project\include\binarytreenode.h
+	<string>
+
+1586388148 source:c:\users\makis\desktop\ergasia c++\project\src\sa.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+
+1589636241 source:c:\users\makis\desktop\ergasia c++\project\src\binarytreeavl.cpp
+	"BinaryTreeAVL.h"
+	<iostream>
+
+1589635425 c:\users\makis\desktop\ergasia c++\project\include\binarytreeavl.h
+	<iostream>
+
+1589635425 source:c:\users\makis\desktop\ergasia c++\project\src\hashtableopenaddressing.cpp
+	"HashTableOpenAddressing.h"
+
+1589635425 c:\users\makis\desktop\ergasia c++\project\include\hashtableopenaddressing.h
+	<iostream>
+
+1591305312 source:c:\users\user\desktop\sxolh\passed\Δομές Δεδομένων\ergasia c++\project\main.cpp
+	<BinaryTree.h>
+	<BinaryTreeAVL.h>
+	<HashTableOpenAddressing.h>
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<chrono>
+	<sstream>
+
+1589634817 c:\users\user\desktop\sxolh\passed\Δομές Δεδομένων\ergasia c++\project\include\binarytree.h
+	<iostream>
+
+1589635425 c:\users\user\desktop\sxolh\passed\Δομές Δεδομένων\ergasia c++\project\include\binarytreeavl.h
+	<iostream>
+
+1589635425 c:\users\user\desktop\sxolh\passed\Δομές Δεδομένων\ergasia c++\project\include\hashtableopenaddressing.h
+	<iostream>
+
+1589634817 source:c:\users\user\desktop\sxolh\passed\Δομές Δεδομένων\ergasia c++\project\src\binarytree.cpp
+	"BinaryTree.h"
+
+1589636241 source:c:\users\user\desktop\sxolh\passed\Δομές Δεδομένων\ergasia c++\project\src\binarytreeavl.cpp
+	"BinaryTreeAVL.h"
+	<iostream>
+
+1589635425 source:c:\users\user\desktop\sxolh\passed\Δομές Δεδομένων\ergasia c++\project\src\hashtableopenaddressing.cpp
+	"HashTableOpenAddressing.h"
+

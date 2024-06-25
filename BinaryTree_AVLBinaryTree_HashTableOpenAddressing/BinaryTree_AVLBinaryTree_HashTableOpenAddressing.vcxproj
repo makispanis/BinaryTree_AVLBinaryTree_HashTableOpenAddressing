@@ -71,10 +71,10 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <IncludePath>$(VC_IncludePath);$(WindowsSDK_IncludePath);C:\Users\User\Desktop\SXOLH\projects Github\BinaryTree_AVLBinaryTree_HashTableOpenAddressing\BinaryTree_AVLBinaryTree_HashTableOpenAddressing</IncludePath>
+    <IncludePath>$(VC_IncludePath);$(WindowsSDK_IncludePath);..\BinaryTree_AVLBinaryTree_HashTableOpenAddressing;</IncludePath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
-    <IncludePath>$(VC_IncludePath);$(WindowsSDK_IncludePath);C:\Users\User\Desktop\SXOLH\projects Github\BinaryTree_AVLBinaryTree_HashTableOpenAddressing\BinaryTree_AVLBinaryTree_HashTableOpenAddressing</IncludePath>
+    <IncludePath>$(VC_IncludePath);$(WindowsSDK_IncludePath);..\BinaryTree_AVLBinaryTree_HashTableOpenAddressing;</IncludePath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
@@ -149,6 +149,9 @@
   <ItemGroup>
     <None Include="..\README.md" />
     <None Include="..\report.pdf" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\screenshots\Screenshot.png" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

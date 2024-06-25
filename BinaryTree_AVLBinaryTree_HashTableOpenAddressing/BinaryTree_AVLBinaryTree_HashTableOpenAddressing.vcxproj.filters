@@ -46,4 +46,9 @@
     <None Include="..\README.md" />
     <None Include="..\report.pdf" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\screenshots\Screenshot.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
 </Project>
